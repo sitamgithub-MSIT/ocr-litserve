@@ -36,7 +36,7 @@ Now, you can see the model's output based on the input request. The model will g
 
 ## Usage
 
-The project can be used to serve the GOT-OCR2.0 model using LitServe. It allows you to input an image and get the OCR output in return suggesting potential use cases in the real world such as document scanning, text extraction, and more.
+The project can be used to serve the GOT-OCR2.0 model using LitServe. It allows you to input an image and receive the OCR output, suggesting potential use cases in the real world, such as document scanning, text extraction, and more.
 
 ## Contributing
 
