@@ -1,4 +1,4 @@
-# OCR LitServe
+# GOT-OCR2 LitServe
 
 [![Open In Studio](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/studio-badge.svg)](https://lightning.ai/sitammeur/studios/deploy-tangoflux-audio-generation-model)
 
