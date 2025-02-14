@@ -1,6 +1,6 @@
 # GOT-OCR2 LitServe
 
-[![Open In Studio](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/studio-badge.svg)](https://lightning.ai/sitammeur/studios/deploy-tangoflux-audio-generation-model)
+[![Open In Studio](https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/studio-badge.svg)](https://lightning.ai/sitammeur/studios/deploy-got-ocr2-model)
 
 GOT-OCR2 is a versatile OCR model handling various document types, including tables, charts, and formulas. It outputs plain text, but further processing enables formatted output. Interactive OCR with region specification is also supported. This project shows how to create a self-hosted, private API that deploys [optical character recognition model](https://huggingface.co/stepfun-ai/GOT-OCR-2.0-hf) with LitServe, an easy-to-use, flexible serving engine for AI models built on FastAPI.
 

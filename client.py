@@ -17,7 +17,7 @@ response = requests.post(url, json=payload)
 # Parse the response JSON data
 output = response.json()
 
-# Display the response in a formatted markdown format
+# Display the response in a markdown format
 console = Console()
 markdown = Markdown(output["text"])
 console.print(markdown)
